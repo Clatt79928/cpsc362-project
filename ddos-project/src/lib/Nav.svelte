@@ -1,4 +1,4 @@
-<script> import { P, Layout } from 'flowbite-svelte';</script>
+
 <style>
     :global(body) {
       @apply bg-gray-500;
@@ -21,22 +21,18 @@
     </div>
     <div class="w-full inline-block flex-grow lg:flex lg:items-center lg:w-auto">
       <div class="text-sm lg:flex-grow">
-        <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
           About
         </a>
-        <a href="/map" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
           Map
         </a>
-        <a href="/graphs" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white">
+        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white">
           Graphs
-        </a>
-        <a href="/srclink" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white">
-          Github Link
         </a>
       </div>
     </div>
   </nav>
-
 </body>
-
+  
 
