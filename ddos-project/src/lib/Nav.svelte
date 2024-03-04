@@ -1,9 +1,4 @@
 
-<style>
-    :global(body) {
-      @apply bg-gray-500;
-    }
-  </style>
 
 <body class = m-0>
 <nav class="flex items-center justify-center flex-wrap bg-sky-600 p-6 ">
@@ -21,13 +16,13 @@
     </div>
     <div class="w-full inline-block flex-grow lg:flex lg:items-center lg:w-auto">
       <div class="text-sm lg:flex-grow">
-        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
+        <a href="/about" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
           About
         </a>
-        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
+        <a href="/map" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white mr-4">
           Map
         </a>
-        <a href="#responsive-header" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white">
+        <a href="/graphs" class="block mt-4 lg:inline-block lg:mt-0 text-sky-50 hover:text-white">
           Graphs
         </a>
       </div>
