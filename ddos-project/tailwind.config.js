@@ -24,7 +24,7 @@ export default {
     skeleton({
       themes: {
           
-          preset: [ "skeleton", "modern", "crimson" ] 
+          preset: [ "skeleton", "modern", "rocket" ] 
       }
   })
 	]

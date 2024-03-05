@@ -6,8 +6,8 @@
         </div>
         <iframe 
             title="Cyber Threat Real-time Map" 
-            width="1910" 
-            height="896" 
+            width="1680" 
+            height="885" 
             src="https://cybermap.kaspersky.com/en/widget/dynamic/dark" 
             frameborder="0"
             style="position: absolute; top: 0; left: 0; z-index: 1;">
