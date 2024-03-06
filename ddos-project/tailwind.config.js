@@ -14,13 +14,13 @@ export default {
 		join(require.resolve(
 			'@skeletonlabs/skeleton'),
 			'../**/*.{html,js,svelte,ts}'
-		)
+		),
 	],
 	theme: {
 		extend: {},
 	},
 	plugins: [
-		
+	require('tailwindcss-animated'),
     skeleton({
       themes: {
           
