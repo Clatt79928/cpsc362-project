@@ -2,7 +2,6 @@
 
 <div style="position: relative;">
         <div style="position: absolute; top: 0; right: 0; z-index: 2;">
-                <h1 class = "text-black text-4xl" > ▇▇▇▇▇▇▇▇ </h1>
         </div>
         <iframe 
             title="Cyber Threat Real-time Map" 
