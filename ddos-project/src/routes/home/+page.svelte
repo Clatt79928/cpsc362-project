@@ -3,11 +3,9 @@
 
 
 <div class= "h-96 flex items-center justify-center"> 
-    <h1 class = "animate-rotate-y animate-ease-linear animate-once">
-        <h3 class= "font-mono text-4xl ">
+    <h3 class = "font-mono text-4xl animate-rotate-y animate-ease-linear animate-once ">
                 What's the purpose of this project?
-        </h3>
-    </h1>
+    </h3>
 </div>
 
 <h5 class = "h-24 flex items-center justify-center font-mono" >
