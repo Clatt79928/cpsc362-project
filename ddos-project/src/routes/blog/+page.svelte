@@ -5,7 +5,7 @@
             <header class="mb-4 lg:mb-6 not-format">
                 <address class="flex items-center mb-6 not-italic">
                     <div class="inline-flex items-center mr-3 text-sm text-gray-900 dark:text-white">
-                        <img class="mr-4 w-16 h-16 rounded-full" src="static/images.jpg" alt="picture">
+                        <img class="mr-4 w-16 h-16 rounded-full" src="nothing" alt="picture">
                         <div>
                             <a href="#" rel="author" class="text-xl font-bold text-gray-900 dark:text-white">User123</a>
                             <p class="text-base text-gray-500 dark:text-gray-400">Student, California State University Fullerton</p>

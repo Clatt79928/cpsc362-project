@@ -1,17 +1,9 @@
+<script>
+    import DefaultPage from "$lib/DefaultPage.svelte";
+</script>
 
+<DefaultPage/>
 
-
-
-<div class= "h-96 flex items-center justify-center"> 
-    <h3 class = "font-mono text-4xl animate-rotate-y animate-ease-linear animate-once ">
-                What's the purpose of this project?
-    </h3>
-</div>
-
-<h5 class = "h-24 flex items-center justify-center font-mono" >
-    Inform users on practicing safe browsing and cybersecurity to for protecting against threats, ensuring privacy, 
-    and maintaining the integrity of digital experiences!
- </h5>
 
 <!-- maybe use later
  <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-8 h-8 fill-slate-950">
