@@ -4,7 +4,31 @@
     </h3>
 </div>
 
-<h5 class="h-24 flex items-center justify-center font-mono">
-    Inform users on practicing safe browsing and cybersecurity to for protecting against threats, ensuring privacy, 
-    and maintaining the integrity of digital experiences!
-</h5>
+<div class="container mx-auto mt-8 font-mono">
+    <div class="max-w-2xl mx-auto">
+        <div class="mb-8">
+            <h4 class="text-2xl font-bold mb-4 text-white">Our Mission</h4>
+            <p class="text-gray-200">
+                At SafeNet, our mission is to provide real-time tracking and analysis of Distributed Denial of Service (DDoS) attacks 
+                to help organizations and individuals mitigate the risks associated with cyber threats.
+            </p>
+        </div>
+
+        <div class="mb-8">
+            <h4 class="text-2xl font-bold mb-4 text-white">Why Cybersecurity Matters</h4>
+            <p class="text-gray-200">
+                Practicing safe browsing and implementing robust cybersecurity measures are crucial in today's digital landscape. 
+                By staying informed and taking proactive steps, you can protect yourself against threats, ensure your privacy, 
+                and maintain the integrity of your digital experiences.
+            </p>
+        </div>
+
+        <div>
+            <h4 class="text-2xl font-bold mb-4 text-white">Stay Informed, Stay Safe</h4>
+            <p class="text-gray-200">
+                Visit our website regularly to stay updated on the latest trends in cybersecurity, learn about best practices for 
+                protecting your digital assets, and access resources to enhance your online security posture.
+            </p>
+        </div>
+    </div>
+</div>
