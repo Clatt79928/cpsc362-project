@@ -1,9 +1,5 @@
 
 
-<script>
-import avatarone from '/static/avatarone.png' ;
-import avatartwo from '/static/avatartwo.png' ;
-</script>
 
 <main class="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-skeleton antialiased">
     <div class="flex justify-between px-4 mx-auto max-w-screen-xl ">
@@ -26,7 +22,7 @@ import avatartwo from '/static/avatartwo.png' ;
                         <p class="mb-5 font-light text-gray-500 dark:text-gray-400">Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.</p>
                         <div class="flex justify-between items-center">
                             <div class="flex items-center space-x-4">
-                                <img class="w-7 h-7 rounded-full" src={avatarone} alt="avatar one" />
+                                <img class="w-7 h-7 rounded-full" src="/avatarone.png" alt="avatar one" />
                                 <span class="font-medium dark:text-white">
                                     Student 1
                                 </span>
@@ -49,7 +45,7 @@ import avatartwo from '/static/avatartwo.png' ;
                         <p class="mb-5 font-light text-gray-500 dark:text-gray-400">Static websites are now used to bootstrap lots of websites and are becoming the basis for a variety of tools that even influence both web designers and developers influence both web designers and developers.</p>
                         <div class="flex justify-between items-center">
                             <div class="flex items-center space-x-4">
-                                <img class="w-7 h-7 rounded-full" src={avatartwo} alt="Avatar two" />
+                                <img class="w-7 h-7 rounded-full" src="avatartwo.png" alt="Avatar two" />
                                 <span class="font-medium dark:text-white">
                                     Student 2
                                 </span>
