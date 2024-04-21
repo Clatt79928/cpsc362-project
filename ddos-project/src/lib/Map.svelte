@@ -1,5 +1,14 @@
 
 
+<style>
+    @media (min-width: 768px) {
+        iframe {
+            width: 100%;
+            height: 100vh;
+        }
+    }
+</style>
+
 <div style="position: relative;">
         <div style="position: absolute; top: 0; right: 0; z-index: 2;">
         </div>

@@ -1,15 +1,15 @@
 <div class="h-48 flex items-center justify-center"> 
     <h3 class="font-mono text-4xl animate-rotate-y animate-ease-linear animate-once pt-1">
-        What's is our objective?
+        Welcome!
     </h3>
 </div>
 
 <div class="container mx-auto mt-8 font-mono">
     <div class="max-w-2xl mx-auto">
         <div class="mb-8">
-            <h4 class="text-2xl font-bold mb-4 text-white">Our Mission</h4>
+            <h4 class="text-2xl font-bold mb-4 text-white">Our Objective</h4>
             <p class="text-gray-200">
-                At SafeNet, our mission is to provide real-time tracking and analysis of Distributed Denial of Service (DDoS) attacks 
+                Our website to provides real-time tracking and analysis of Distributed Denial of Service (DDoS) attacks 
                 to help organizations and individuals mitigate the risks associated with cyber threats.
             </p>
         </div>
